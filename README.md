@@ -1,4 +1,5 @@
 # Memory Game
+![Game Image](readme-image.png?raw=true "Image")
 This game was made using ReactJS, CSS and HTML. It uses the Lorem Picsum API to generate random "Stock" images.
 This project is finished and will not be further developed.
 
